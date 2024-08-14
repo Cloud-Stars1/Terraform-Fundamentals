@@ -1,6 +1,6 @@
 # Terraform Fundamentals
 
-### Run the following Commands in Command Prompt
+### Run the following Commands in the Cloud shell
 
 
 
