@@ -1,5 +1,8 @@
 #Terraform Fundamentals
 
+
+
+```
 gcloud auth list 
 
 cat > instance.tf <<EOF_END
@@ -26,3 +29,5 @@ EOF_END
 terraform init
 terraform plan
 terraform apply --auto-approve
+```
+
