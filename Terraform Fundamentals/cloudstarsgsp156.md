@@ -1,4 +1,4 @@
-# Terraform Fundamentals
+# Terraform Fundamentals || GSP156
 
 ### Run the following Commands in the Cloud shell
 
