@@ -1,4 +1,6 @@
-Terraform Fundamentals
+# Terraform Fundamentals
+
+### Run the following Commands in Command Prompt
 
 
 
@@ -31,3 +33,12 @@ terraform plan
 terraform apply --auto-approve
 ```
 
+### Congratulations 🎉 for completing the Lab !
+
+##### *You Have Successfully Demonstrated Your Skills And Determination.*
+
+#### *Well done!*
+
+#### Don't Forget to Join the [Telegram Channel](https://t.me/cloudstars24)
+
+###    [CLOUD STARS](https://www.youtube.com/@cloud-stars)
