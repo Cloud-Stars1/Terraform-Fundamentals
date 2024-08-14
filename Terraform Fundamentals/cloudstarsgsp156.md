@@ -3,6 +3,12 @@
 ### Run the following Commands in the Cloud shell
 
 
+```
+export ZONE=
+```
+
+
+
 
 ```
 gcloud auth list 
@@ -35,7 +41,7 @@ terraform apply --auto-approve
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### You Have Successfully Demonstrated Your Skills And Determination.
 
 #### *Well done!*
 
